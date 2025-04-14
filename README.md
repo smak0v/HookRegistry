@@ -54,7 +54,7 @@ Schema Reference:
 ```
 List Name:
 List URL:
-Link to the official homepage of the list manager:
+Website of the HookList creator:
 ```
 
 ## Review Process:
