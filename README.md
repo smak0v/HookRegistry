@@ -54,6 +54,7 @@ Schema Reference:
 ```
 List Name:
 List URL:
+Name of the HookList creator (company or individual):
 Website of the HookList creator:
 ```
 
